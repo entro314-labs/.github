@@ -62,15 +62,13 @@ Go tools ship via [`homebrew-tap`](https://github.com/entro314-labs/homebrew-tap
 | **AI Context Schema** | `🟢 Live` | Universal interoperability standard for AI development tools. ([GitHub @vdkit](https://github.com/vdkit/ai-context-schema)) |
 | **FairRent Platform** | `🟡 Private Product Track` | ML-driven rental intelligence — 99.89% prediction accuracy (`fairrent`, `fairrent-web`, `fairrent-ml`) |
 | **HermesAI** | `🟡 Private Product Track` | Newsroom AI platform — story monitoring, synthesis workflows, admin review (Next.js 16) |
-| **Polaris** | `🟡 Private Product Track` | AI marketing platform — brand guardrails, content organization, prompt engineering for teams |
-| **Sainni** | `🟡 Private Product Track` | Real-time AI sales assistant — Next.js 16 dashboard + Tauri v2 desktop + Go API gateway |
+| **PolarisAI** | `🟡 Private Product Track` | AI marketing platform — brand guardrails, content organization, prompt engineering for teams |
 | **Domatio** | `🟡 Private Product Track` | Role-aware real estate platform — Next.js 16, tRPC, Drizzle, Neon |
 | **Epafi** | `🟡 Private Product Track` | Smart contact management — AI deduplication, data enrichment, multi-source consolidation |
 | **Dots & Bricks** | `🟡 Private Product Track` | Polyglot DevOps bootstrapper — AI-ready project blueprints, release automation |
 | **Energy System** | `🔵 Research` | Framework-agnostic TypeScript library for energy-aware, neurodivergent-friendly application behavior |
-| **LNX** | `🔵 Research` | Arch-based rolling-release distro — COSMIC desktop, developer/AI-enthusiast focus |
 | **Warm Sunset Design** | `✅ Complete` | Accessible design token and theming system ([VS Code theme](https://github.com/idominikosgr/warm-sunset-vscode-theme)) |
-| **Fund-Deck / MyRoomie** | `🟡 Private Product Track` | Investor presentation platform and data tooling |
+| **Fund-Deck** | `🟡 Private Product Track` | Investor presentation platform and data tooling |
 
 ### Across the ecosystem
 
