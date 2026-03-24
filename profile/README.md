@@ -79,9 +79,7 @@ Work that originated here but grew into standalone organizations:
 | **[@entrolytics](https://github.com/entrolytics)** | Privacy-first web analytics platform — dual-database (PostgreSQL + ClickHouse), 100K events/sec, <1KB tracker, 25+ SDK packages across React, Vue, Svelte, Astro, Next.js, Go, Python, PHP, mobile. ([entrolytics.click](https://entrolytics.click)) |
 | **[@vdkit](https://github.com/vdkit)** | Vibe Development Kit — VDK CLI, AI Context Schema, blueprints, oxlint plugin. Train AI assistants on any codebase. |
 | **[@capysquash](https://github.com/capysquash)** | PostgreSQL migration squashing and optimization — CLI, API, VS Code extension, web studio. |
-| **[@MarkdownKit](https://github.com/MarkdownKit)** | Markdown processing toolkit. |
-
-Satellite SDK repos for Entrolytics ([entro-react](https://github.com/entro314-labs/entro-react), [entro-vue](https://github.com/entro314-labs/entro-vue), [entro-svelte](https://github.com/entro314-labs/entro-svelte), [entro-go](https://github.com/entro314-labs/entro-go), [entro-python](https://github.com/entro314-labs/entro-python), [entro-php](https://github.com/entro314-labs/entro-php), and more) are published from this org.
+| **[@MarkdownKit](https://github.com/Markdown-Kit)** | Markdown processing toolkit. |
 
 ## 💼 What We Build
 
