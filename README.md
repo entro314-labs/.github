@@ -117,11 +117,11 @@ Central coordination repository for **entro314 labs** organization metadata, sto
 
 ## Stale mapping to update
 
-- Local project `dots-and-bricks` has a git remote pointing to `devops-dots` (https://github.com/entro314-labs/devops-dots.git). The repo was renamed to `dots-and-bricks` on GitHub — the redirect still works but the remote URL should be updated to `https://github.com/entro314-labs/dots-and-bricks.git`.
+- Local project `dots-and-bricks` has a git remote pointing to `devops-dots` (https://github.com/entro314-labs/devops-dots.git). The repo was renamed to `dots-and-bricks` on GitHub - the redirect still works but the remote URL should be updated to `https://github.com/entro314-labs/dots-and-bricks.git`.
 
 ## Notes
 
 - `Fund-Deck` is checked out in two local folders: `Fund-Deck` and `MyRoomie-Deck`.
 - The `entrolytics-ecosystem` local folder is a monorepo workspace containing the Entrolytics platform and 25+ SDK packages, but does not have a single git remote pointing to the org (individual packages map to separate org repos like `entrolytics`, `entro-react`, etc.).
-- Several Entrolytics satellite repos (`entro-react`, `entro-vue`, `entro-go`, etc.) exist on GitHub but are not individually checked out — they are managed within the `entrolytics-ecosystem` monorepo locally.
+- Several Entrolytics satellite repos (`entro-react`, `entro-vue`, `entro-go`, etc.) exist on GitHub but are not individually checked out - they are managed within the `entrolytics-ecosystem` monorepo locally.
 - This file is intended as the source-of-truth index for repo-to-folder mapping and should be refreshed after repo creation/renames.
